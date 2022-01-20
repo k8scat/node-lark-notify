@@ -1,6 +1,6 @@
 {
   "name": "@k8scat/node-lark-notify",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "基于 Node.js 的飞书群机器人消息推送工具",
   "author": "k8scat <k8scat@gmail.com>",
   "license": "MIT",
