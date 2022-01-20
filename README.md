@@ -5,7 +5,7 @@
 ## Usage
 
 ```shell
-npm install @k8scat/node-lark-notify
+npm install -g @k8scat/node-lark-notify
 lark-notify <webhookUrl> <message>
 ```
 
