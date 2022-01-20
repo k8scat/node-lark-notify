@@ -1,0 +1,36 @@
+{
+  "name": "@k8scat/node-lark-notify",
+  "version": "1.0.0",
+  "description": "基于 Node.js 的飞书群机器人消息推送工具",
+  "author": "k8scat <k8scat@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/k8scat/node-lark-notify.git",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "node",
+    "lark",
+    "robot",
+    "notify"
+  ],
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/k8scat/node-lark-notify.git"
+  },
+  "bugs": {
+    "url": "https://github.com/k8scat/node-lark-notify/issues"
+  },
+  "bin": {
+    "lark-notify": "bin/index.js"
+  },
+  "dependencies": {
+    "node-fetch": "^3.1.1"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.10"
+  }
+}
